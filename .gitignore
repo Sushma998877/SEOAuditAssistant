@@ -1,0 +1,23 @@
+
+# Visual Studio
+.vs/
+**/bin/
+**/obj/
+*.csproj.user
+
+# Frontend
+**/node_modules/
+**/dist/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Development configuration and secrets
+**/appsettings.Development.json
+**/secrets*.json
+
+# Logs and build files
+*.log
+coverage/

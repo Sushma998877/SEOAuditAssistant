@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SEOAudit.API.Tests/SEOAudit.API.Tests.csproj" />
+  <Project Path="SEOAudit.API/SEOAudit.API.csproj" />
+</Solution>
